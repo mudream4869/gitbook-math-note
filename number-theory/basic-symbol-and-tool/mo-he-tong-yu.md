@@ -1,0 +1,29 @@
+# 模和同餘
+
+當 a 除 n 的餘數 和 b 除 n 餘數相同，我們記做
+
+$$
+a \equiv b \ (mod \ n)
+$$
+
+​於是，可以有這些性質：
+
+* $$a \equiv b \ (mod \ n) \Rightarrow a-c \equiv b-c\ (mod \ n)$$
+* $$a \equiv b \ (mod \ n) \Rightarrow ac \equiv bc\ (mod \ n)$$
+* $$a \equiv b \ (mod \ n) \Rightarrow n|a-b$$
+
+也就是說，在模 n 底下，我們可以拿到一個環。
+
+對於和 $$n$$ 互質的元素 $$m$$ ，存在反元素，通常可以記做 $$m^{-1}$$&#x20;
+
+$$
+(n, m) = 1 \Rightarrow \exist m^{-1} \ s.t. \ mm^{-1} \equiv 1 (mod \ n )
+$$
+
+​這並不是那麼的顯然，不過可以考慮輾轉相除法所能證明的
+
+$$
+(m, n)=1 \Rightarrow  \exist x,y \in \mathbb{N} \ s.t. \  mx+ny=1
+$$
+
+​直接使用就可以拿 $$x$$​ 做為 ​$$m$$​ 的反元素。

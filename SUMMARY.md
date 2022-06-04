@@ -10,3 +10,10 @@
   * [高斯符號](number-theory/basic-symbol-and-tool/floor-ceiling-function.md)
   * [多項式分解](number-theory/basic-symbol-and-tool/duo-xiang-shi-fen-jie.md)
   * [Wilson 定理](number-theory/basic-symbol-and-tool/wilson-theorem.md)
+* [Zsigmondy's Theorem](number-theory/zsigmondys-theorem.md)
+* [Dirichlet's Theorem](number-theory/dirichlets-theorem.md)
+
+## 🔤 代數 <a href="#algebra" id="algebra"></a>
+
+* [函數方程](algebra/functional-equation.md)
+* [不等式](algebra/inequality.md)

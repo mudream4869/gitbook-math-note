@@ -10,6 +10,7 @@
   * [高斯符號](number-theory/basic-symbol-and-tool/floor-ceiling-function.md)
   * [多項式分解](number-theory/basic-symbol-and-tool/duo-xiang-shi-fen-jie.md)
   * [Wilson 定理](number-theory/basic-symbol-and-tool/wilson-theorem.md)
+  * [原根](number-theory/basic-symbol-and-tool/primitive-root.md)
 * [Lifting The Exponent Lemma](number-theory/lifting-the-exponent-lemma.md)
 * [Zsigmondy's Theorem](number-theory/zsigmondys-theorem.md)
 * [Dirichlet's Theorem](number-theory/dirichlets-theorem.md)

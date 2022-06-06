@@ -9,6 +9,7 @@
   * [模和同餘](number-theory/basic-symbol-and-tool/mo-he-tong-yu.md)
   * [高斯符號](number-theory/basic-symbol-and-tool/floor-ceiling-function.md)
   * [多項式分解](number-theory/basic-symbol-and-tool/duo-xiang-shi-fen-jie.md)
+  * [中國剩餘定理](number-theory/basic-symbol-and-tool/zhong-guo-sheng-yu-ding-li.md)
   * [Wilson 定理](number-theory/basic-symbol-and-tool/wilson-theorem.md)
   * [原根](number-theory/basic-symbol-and-tool/primitive-root.md)
 * [Lifting The Exponent Lemma](number-theory/lifting-the-exponent-lemma.md)
@@ -18,4 +19,5 @@
 ## 🔤 代數 <a href="#algebra" id="algebra"></a>
 
 * [函數方程](algebra/functional-equation.md)
-* [不等式](algebra/inequality.md)
+* [不等式](algebra/inequality/README.md)
+  * [平均不等式](algebra/inequality/ping-jun-bu-deng-shi.md)

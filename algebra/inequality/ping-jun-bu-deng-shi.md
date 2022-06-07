@@ -67,4 +67,6 @@ $$
 ### 習題
 
 1. $$a, b > 0, ab^2 = 1$$，求 $$a + 4b$$ 的最小值？
-2. $$a, b, c$$為三角形三邊長，證明：$$abc \geq (a+b-c)(b+c-a)(c+a-b)$$​
+2. $$a, b, c$$為三角形三邊長，證明：$$abc \geq (a+b-c)(b+c-a)(c+a-b)$$
+3. $$a, b > 0, a+b \leq 2$$，證明：$$\frac{a}{b + ab} +\frac{a}{b + ab} \geq 1$$
+4. $$a, b, c > 0$$，證明：$$(\frac{a+2b}{c})^2 + (\frac{b+2c}{a})^2 + (\frac{c+2a}{b})^2 \geq 27$$​

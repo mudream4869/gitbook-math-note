@@ -4,11 +4,16 @@ description: 又稱取整函數
 
 # 高斯符號
 
-定義如下
+### 定義
 
 * $$n \leq x < n+1 \Rightarrow \lfloor x \rfloor = n$$​
 * $$n < x \leq n+1 \Rightarrow \lceil x \rceil = n +1$$
-* $$\{x\} = x - \lfloor x \rfloor$$​
+* $$\{x\} = x - \lfloor x \rfloor$$
+* 有時 $$\lfloor x \rfloor$$​也寫作 $$[x]$$
+
+### 性質
+
+* $$[x] + [y] \leq [x+y] \leq [x] + [y] + 1$$
 
 ### 埃爾米特恆等式
 
@@ -40,3 +45,8 @@ $$
 
 之所以先乘 $$i$$ 是因為 $$p^i$$ 貢獻 $$i$$ 個 $$p$$，而扣掉 $$i-1$$，是因為和前面 $$p ... p^{i-1}$$ 重複計算。
 
+### 習題
+
+1. 解 $$x^2 - 4 \lfloor x \rfloor + 1= 0$$​
+2. 證明：若 $$\lfloor \sqrt n  \rfloor \mid n$$​，且 $$n$$ 不是完全平方數，則$$\lfloor \sqrt n \rfloor + 1 \mid n$$​ 或 $$\lfloor \sqrt n \rfloor + 2 \mid n$$
+3. x, y 是正整數，證明:$$x!y! \mid (x+y)!$$​

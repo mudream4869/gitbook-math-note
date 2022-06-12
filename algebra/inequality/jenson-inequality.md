@@ -51,3 +51,6 @@ TODO
 ### 習題
 
 1. 用 Jenson 證明平均不等式。
+2. 證明：歐幾里得空間的三角形 $$\Delta ABC$$​ 滿足：$$\sin \angle A + \sin \angle B + \sin \angle C \leq \frac{3 \sqrt{3}}{2}$$​
+3. x, y, z > 0， 證明：$$\frac{x}{2x + y + z} + \frac{y}{x + 2y + z} + \frac{z}{x + y + 2z} \leq \frac{3}{4}$$
+

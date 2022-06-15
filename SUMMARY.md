@@ -24,3 +24,5 @@
   * [平均不等式](algebra/inequality/ping-jun-bu-deng-shi.md)
   * [Cauchy-Schwarz 不等式](algebra/inequality/cauchy-inequality.md)
   * [Jenson 不等式](algebra/inequality/jenson-inequality.md)
+  * [Young 不等式](algebra/inequality/young-inequality.md)
+  * [Holder 不等式](algebra/inequality/holder-inequality.md)

@@ -40,3 +40,10 @@ $$
 \frac{a^4}{a+b} + \frac{b^4}{b+c} + \frac{c^4}{c+a} \geq \frac{3}{2}
 $$
 
+* a, b, c, d > 0 ，證明：
+
+$$
+\frac{a}{b + 2c + 3d} + \frac{b}{c + 2d + 3a} + \frac{c}{d + 2a + 3b} + \frac{d}{a + 2b + 3c} \geq \frac{2}{3}
+$$
+
+​

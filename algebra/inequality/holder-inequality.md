@@ -26,6 +26,11 @@ $$
 
 得證。
 
+### 特例
+
+* $$p = q = 2$$​ -> [Cauchy-Schwarz 不等式](cauchy-inequality.md)
+
 ### 習題
 
-1. 證明：$$\frac{1}{\sin^4\theta} + \frac{1}{\cos^4\theta} \geq 8$$​
+1. 證明：$$\frac{1}{\sin^4\theta} + \frac{1}{\cos^4\theta} \geq 8$$
+2. a, b > 0, $$x \in (0, \frac{\pi}{2})$$，求 $$\frac{a}{\sqrt{\sin x}} + \frac{b}{\sqrt{\cos x}}$$ 的最小值​

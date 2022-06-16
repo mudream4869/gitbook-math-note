@@ -42,7 +42,7 @@ $$
 
 $$f$$​是二次可導函數，則：
 
-$$f$$​是凸函數 if and only if $$f''(x) > 0$$
+$$f$$​是凸函數 and only if $$f''(x) > 0$$
 
 {% hint style="info" %}
 TODO
@@ -52,5 +52,6 @@ TODO
 
 1. 用 Jenson 證明平均不等式。
 2. 證明：歐幾里得空間的三角形 $$\Delta ABC$$​ 滿足：$$\sin \angle A + \sin \angle B + \sin \angle C \leq \frac{3 \sqrt{3}}{2}$$​
-3. x, y, z > 0， 證明：$$\frac{x}{2x + y + z} + \frac{y}{x + 2y + z} + \frac{z}{x + y + 2z} \leq \frac{3}{4}$$
+3. x, y, z > 0，證明：$$\frac{x}{2x + y + z} + \frac{y}{x + 2y + z} + \frac{z}{x + y + 2z} \leq \frac{3}{4}$$
+4. x, y, z > 0，證明：$$\frac{x}{\sqrt{y+z}} + \frac{y}{\sqrt{z+x}} + \frac{z}{\sqrt{x+y}} \geq \sqrt{\frac{3}{2}(x+y+z)}$$​
 

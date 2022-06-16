@@ -20,4 +20,6 @@ $$
 a^{p-1} = b \Leftrightarrow a^p = b^\frac{p-1}{p} = b^q
 $$
 
-​
+### 特例​
+
+* $$p = q = 2$$​ -> [平均不等式](ping-jun-bu-deng-shi.md)

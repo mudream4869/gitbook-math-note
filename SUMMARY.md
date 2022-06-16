@@ -26,3 +26,4 @@
   * [Jenson 不等式](algebra/inequality/jenson-inequality.md)
   * [Young 不等式](algebra/inequality/young-inequality.md)
   * [Holder 不等式](algebra/inequality/holder-inequality.md)
+  * [排序不等式](algebra/inequality/order-inequality.md)

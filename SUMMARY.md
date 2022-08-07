@@ -19,7 +19,8 @@
 
 ## 🔤 代數 <a href="#algebra" id="algebra"></a>
 
-* [函數方程](algebra/functional-equation.md)
+* [函數方程](algebra/functional-equation/README.md)
+  * [柯西函數方程](algebra/functional-equation/ke-xi-han-shu-fang-cheng.md)
 * [不等式](algebra/inequality/README.md)
   * [平均不等式](algebra/inequality/ping-jun-bu-deng-shi.md)
   * [Cauchy-Schwarz 不等式](algebra/inequality/cauchy-inequality.md)

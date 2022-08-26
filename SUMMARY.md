@@ -19,6 +19,7 @@
 
 ## 🔤 代數 <a href="#algebra" id="algebra"></a>
 
+* [Vieta Jump](algebra/vieta-jump.md)
 * [函數方程](algebra/functional-equation/README.md)
   * [柯西函數方程](algebra/functional-equation/ke-xi-han-shu-fang-cheng.md)
 * [不等式](algebra/inequality/README.md)

@@ -16,10 +16,10 @@
 * [Lifting The Exponent Lemma](number-theory/lifting-the-exponent-lemma.md)
 * [Zsigmondy's Theorem](number-theory/zsigmondys-theorem.md)
 * [Dirichlet's Theorem](number-theory/dirichlets-theorem.md)
+* [Vieta Jump](number-theory/vieta-jump.md)
 
 ## 🔤 代數 <a href="#algebra" id="algebra"></a>
 
-* [Vieta Jump](algebra/vieta-jump.md)
 * [函數方程](algebra/functional-equation/README.md)
   * [柯西函數方程](algebra/functional-equation/ke-xi-han-shu-fang-cheng.md)
 * [不等式](algebra/inequality/README.md)
@@ -29,5 +29,5 @@
   * [Young 不等式](algebra/inequality/young-inequality.md)
   * [Hölder 不等式](algebra/inequality/holder-inequality.md)
   * [排序不等式](algebra/inequality/order-inequality.md)
-  * [一魚多吃的題目](algebra/inequality/many-methods.md)
+  * [一魚多吃的題目](algebra/inequality/yi-yu-duo-chi-de-ti-mu.md)
   * [替換法](algebra/inequality/replacement.md)

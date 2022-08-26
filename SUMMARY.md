@@ -29,4 +29,5 @@
   * [Young 不等式](algebra/inequality/young-inequality.md)
   * [Hölder 不等式](algebra/inequality/holder-inequality.md)
   * [排序不等式](algebra/inequality/order-inequality.md)
-  * [一魚多吃的題目](algebra/inequality/yi-yu-duo-chi-de-ti-mu.md)
+  * [一魚多吃的題目](algebra/inequality/many-methods.md)
+  * [替換法](algebra/inequality/replacement.md)
